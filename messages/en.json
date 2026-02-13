@@ -1,0 +1,8 @@
+{
+  "appName": "ai-first-project",
+  "nav.theme": "Theme",
+  "nav.language": "Language",
+  "home.title": "ai-first-project",
+  "home.subtitle": "An anonymous board: you set a password when creating a post, and you must enter it to edit/delete.",
+  "home.next": "Next: i18n (ko/en) + post CRUD (hashed password) + Vercel deploy"
+}
