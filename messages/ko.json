@@ -1,0 +1,8 @@
+{
+  "appName": "ai-first-project",
+  "nav.theme": "테마",
+  "nav.language": "언어",
+  "home.title": "ai-first-project",
+  "home.subtitle": "로그인 없이 글을 쓰되, 작성 시 비밀번호를 설정하고 수정/삭제 때 비밀번호로 인증하는 게시판.",
+  "home.next": "다음 단계: i18n(ko/en) + 게시글 CRUD(비번 해시) + Vercel 배포"
+}
